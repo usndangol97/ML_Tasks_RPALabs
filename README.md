@@ -2,7 +2,7 @@
 
 ## Description
 OCR using tesseract engine to detect characters from image of a table and save the data in json file.
-Input Image:<br />
+<br />Input Image:<br />
 ![alt Input Image](https://github.com/usndangol97/ML_Tasks_RPALabs/blob/main/images/input_image.png)
 
 <br />Expected output:<br />
