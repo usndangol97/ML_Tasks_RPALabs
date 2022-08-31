@@ -2,16 +2,16 @@
 
 ## Description
 OCR using tesseract engine to detect characters from image of a table and save the data in json file.
-Input Image:
+Input Image:<br />
 ![alt Input Image](https://github.com/usndangol97/ML_Tasks_RPALabs/blob/main/images/input_image.png)
 
-Expected output:
-Eg.
-{
-    "seller": "<Value of Seller Name and Address from the document>",
-    "buyer": "<Value of Buyer Name & Address(Importer of Record) from the document>",
-    ...
-}
+<br />Expected output:<br />
+Eg.<br />
+{<br />
+    "seller": "<Value of Seller Name and Address from the document>",<br />
+    "buyer": "<Value of Buyer Name & Address(Importer of Record) from the document>",<br />
+    ...<br />
+}<br />
 
 - - - - 
 
@@ -20,7 +20,7 @@ Eg.
 * [Installation](#installation)
 * [Libary Usage](#usage)
 * [How to run](#run)
-* [Contributors](#contributors)* 
+* [Contributors](#contributors)
 * [Questions](#questions)
 
 <a name="installation"></a>
